@@ -1,2 +1,2 @@
 # NLP
-Natural Language Processing scripts
+Here you can find basic scripts to understand natural language processing with python and NLTK librarie. Also, there are some scripts focused on ML models using a latent Markovian model, NLTK and implementations of naive bayes model for text classification. If you don't have data bases to test and lear, here are some examples that you can use to understand and play: https://github.com/pachocamacho1990/datasets. Hope you enjoy the scripts.
